@@ -23,16 +23,14 @@ function AboutSection() {
             style={{ textAlign: "justify" }}
           >
             Since beginning my journey as a freelance front-end developer nearly
-            2 years ago, An adept developer proficient in HTML, CSS, JavaScript,
-            React.js, Next.js, React Native, Node.js, Express.js, and MongoDB.
-            Excels in building responsive websites and dynamic mobile apps,
-            seamlessly integrating front-end elegance with sturdy back-end
-            systems. Thrives on creating engaging digital experiences that
-            transcend platforms, focusing on user-centric design and
-            functionality. Passionate about leveraging a diverse skill set to
-            craft innovative solutions that captivate audiences and elevate the
-            digital landscape with intuitive interfaces and scalable
-            architectures.
+            2 years ago, As a dedicated and skilled full-stack developer with 2
+            years of experience so far, I have a proven track record of
+            designing, developing, and deploying web, app applications. My
+            expertise spans both front-end and back-end technologies, and app
+            applications enabling me to create seamless and efficient user
+            experiences. I am proficient in various programming languages,
+            frameworks, and tools, and I thrive in collaborative environments
+            where innovation and problem-solving are key.
           </p>
         </div>
       </div>
