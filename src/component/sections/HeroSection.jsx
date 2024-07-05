@@ -13,12 +13,12 @@ function HeroSection() {
               <i className="las la-home" /> Introduce
             </h4>
             <h1 className="scroll-animation" data-animation="fade_from_bottom">
-              Say Hi from <span>Nikhil</span>, Web and App Developer
+              Say Hi from <span>Nikhil</span>, Full Stack Developer
             </h1>
           </div>
           <p className="scroll-animation" data-animation="fade_from_bottom">
-            I design and code beautifully simple things and i love what i do.
-            Just simple like that!
+            Give someone a program; you frustrate them for a day; teach them how
+            to program, and you frustrate them for a lifetime
           </p>
           {/* <a
             href="#portfolio"
@@ -33,7 +33,7 @@ function HeroSection() {
               className="left scroll-animation"
               data-animation="fade_from_left"
             >
-              <h1>1.3+</h1>
+              <h1>2+</h1>
               <p>
                 Years of <br />
                 Experience

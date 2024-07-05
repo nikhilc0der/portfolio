@@ -22,9 +22,9 @@ function SkillsSection() {
               data-animation="fade_from_left"
             >
               <div className="skill">
-                <div className="skill-inner">
+                {/* <div className="skill-inner">
                   <img src="assets/frontend/html.jpeg" alt="html" />
-                </div>
+                </div> */}
 
                 <p className="name">Html</p>
               </div>
@@ -34,9 +34,9 @@ function SkillsSection() {
               data-animation="fade_from_bottom"
             >
               <div className="skill">
-                <div className="skill-inner">
+                {/* <div className="skill-inner">
                   <img src="assets/frontend/css.jpeg" alt="css" />
-                </div>
+                </div> */}
                 <p className="name">Css</p>
               </div>
             </div>
@@ -45,9 +45,9 @@ function SkillsSection() {
               data-animation="fade_from_top"
             >
               <div className="skill">
-                <div className="skill-inner">
+                {/* <div className="skill-inner">
                   <img src="assets/frontend/jsts.jpeg" alt="jsts" />
-                </div>
+                </div> */}
 
                 <p className="name">Javascript</p>
               </div>
@@ -57,9 +57,9 @@ function SkillsSection() {
               data-animation="fade_from_right"
             >
               <div className="skill">
-                <div className="skill-inner">
+                {/* <div className="skill-inner">
                   <img src="assets/frontend/reactjs.jpg" alt="react" />
-                </div>
+                </div> */}
 
                 <p className="name">ReactJs</p>
               </div>
@@ -69,9 +69,9 @@ function SkillsSection() {
               data-animation="fade_from_left"
             >
               <div className="skill">
-                <div className="skill-inner">
+                {/* <div className="skill-inner">
                   <img src="assets/frontend/nextjs13.jpeg" alt="nextjs13" />
-                </div>
+                </div> */}
 
                 <p className="name">NextJs</p>
               </div>
@@ -81,9 +81,9 @@ function SkillsSection() {
               data-animation="fade_from_bottom"
             >
               <div className="skill">
-                <div className="skill-inner">
+                {/* <div className="skill-inner">
                   <img src="assets/frontend/reactjs.jpg" alt="react" />
-                </div>
+                </div> */}
 
                 <p className="name">React Native</p>
               </div>
@@ -93,9 +93,9 @@ function SkillsSection() {
               data-animation="fade_from_bottom"
             >
               <div className="skill">
-                <div className="skill-inner">
+                {/* <div className="skill-inner">
                   <img src="assets/frontend/redux.jpeg" alt="redux" />
-                </div>
+                </div> */}
 
                 <p className="name">Redux</p>
               </div>
@@ -105,9 +105,9 @@ function SkillsSection() {
               data-animation="fade_from_bottom"
             >
               <div className="skill">
-                <div className="skill-inner">
+                {/* <div className="skill-inner">
                   <img src="assets/frontend/nextauth.png" alt="nextauth" />
-                </div>
+                </div> */}
 
                 <p className="name">NextAuth</p>
               </div>
@@ -117,9 +117,9 @@ function SkillsSection() {
               data-animation="fade_from_bottom"
             >
               <div className="skill">
-                <div className="skill-inner">
+                {/* <div className="skill-inner">
                   <img src="assets/frontend/nodejs.webp" alt="nodejs" />
-                </div>
+                </div> */}
 
                 <p className="name">NodeJs</p>
               </div>
@@ -129,9 +129,9 @@ function SkillsSection() {
               data-animation="fade_from_bottom"
             >
               <div className="skill">
-                <div className="skill-inner">
+                {/* <div className="skill-inner">
                   <img src="assets/frontend/express.png" alt="express" />
-                </div>
+                </div> */}
 
                 <p className="name">ExpressJs</p>
               </div>
@@ -141,9 +141,9 @@ function SkillsSection() {
               data-animation="fade_from_bottom"
             >
               <div className="skill">
-                <div className="skill-inner">
+                {/* <div className="skill-inner">
                   <img src="assets/frontend/mongo.png" alt="mongo" />
-                </div>
+                </div> */}
 
                 <p className="name">MongoDB</p>
               </div>
@@ -153,9 +153,21 @@ function SkillsSection() {
               data-animation="fade_from_bottom"
             >
               <div className="skill">
-                <div className="skill-inner">
+                {/* <div className="skill-inner">
+                  <img src="assets/frontend/mongo.png" alt="mongo" />
+                </div> */}
+
+                <p className="name">Sql</p>
+              </div>
+            </div>
+            <div
+              className="col-md-3 scroll-animation"
+              data-animation="fade_from_bottom"
+            >
+              <div className="skill">
+                {/* <div className="skill-inner">
                   <img src="assets/frontend/tailwind.jpg" alt="tailwind" />
-                </div>
+                </div> */}
 
                 <p className="name">Tailwind</p>
               </div>
@@ -165,9 +177,9 @@ function SkillsSection() {
               data-animation="fade_from_bottom"
             >
               <div className="skill">
-                <div className="skill-inner">
+                {/* <div className="skill-inner">
                   <img src="assets/frontend/bootstrap.jpeg" alt="bootstrap" />
-                </div>
+                </div> */}
 
                 <p className="name">Bootstrap</p>
               </div>

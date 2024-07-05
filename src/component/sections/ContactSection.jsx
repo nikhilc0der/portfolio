@@ -78,12 +78,12 @@ function ContactSection() {
                   <label htmlFor="subject">
                     subject <sup>*</sup>
                   </label>
-                  <select name="subject" id="subject">
-                    <option value="">Select a subject</option>
-                    <option value="subject1">Subject 1</option>
-                    <option value="subject2">Subject 2</option>
-                    <option value="subject3">Subject 3</option>
-                  </select>
+                  <input
+                    type="text"
+                    name="subject"
+                    id="subject"
+                    placeholder="Your subject"
+                  />
                 </div>
               </div>
               <div className="col-md-12">

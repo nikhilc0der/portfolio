@@ -967,6 +967,9 @@ body .body-overlay {
     text-transform: uppercase;
     display: inline-block;
 }
+.services-items .service-item .projects  a{
+    color: var(--primary_color)
+}
 .services-items .service-item:hover .projects {
     text-decoration: underline;
 }
@@ -1017,9 +1020,13 @@ body .body-overlay {
     margin: 0;
 }
 .skills .skill p {
-    font-size: 14px;
+    font-size: 20px;
+    font-weight: bold;
+    border: 2px solid var(--primary_color);
+    border-radius: 10px;
     color: #fff;
     margin: 0;
+
 }
 
 
@@ -1316,9 +1323,12 @@ body .body-overlay {
     border: none;
     background: none;
     font-size: 18px;
-    padding: 0;
+    padding: 10px;
+    /* border-radius: 10px; */
     transition: .2s;
     padding-bottom: 3px;
+    border: 1px solid #bdbdbd;
+
 }
 .contact-area .contact-content .contact-form .input-group textarea {
     height: 140px;
@@ -1329,6 +1339,7 @@ body .body-overlay {
     display: block;
     margin-left: -5px !important;
     font-weight: 300;
+    padding-bottom: 10px;
 }
 .contact-area .contact-content .contact-form .input-group select:focus,
 .contact-area .contact-content .contact-form .input-group textarea:focus,
